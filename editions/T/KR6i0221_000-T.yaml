@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0221/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說須真天子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0588.xml
+    old_id: T15n0588
+hash: sha256:65ffee9bd534236a72ef52b0c4279a8aa646f27f02dbecedc265c39d91c1c98b

@@ -1,0 +1,176 @@
+canonical_identifier: bkk:krp/KR6i0221/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0221/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說須真天子經
+  identifiers:
+    krp: KR6i0221
+    cbeta: T15n0588
+    cbeta_old_id: T15n0588
+    authorityid: CA0003637
+    json_key: T0588
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0588.xml
+    old_id: T15n0588
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0221_000-T.yaml, hash: 'sha256:65ffee9bd534236a72ef52b0c4279a8aa646f27f02dbecedc265c39d91c1c98b'}
+  - {seq: 1, filename: KR6i0221_001-T.yaml, hash: 'sha256:768e3b3531cc95d6482fb9e5e3aa2daae944f3cd96931234f05abe4285519386'}
+  - {seq: 2, filename: KR6i0221_002-T.yaml, hash: 'sha256:1509658c14d082f12683e6a065de83617a6b344f551b4df515a0062cded082bf'}
+  - {seq: 3, filename: KR6i0221_003-T.yaml, hash: 'sha256:2ce86348ccf049bcf0516c6338ab9d65b80408b2d1bb2e7aeca2d0276e69f4f1'}
+  - {seq: 4, filename: KR6i0221_004-T.yaml, hash: 'sha256:8dea4e62d3bcb381d0f2dc4b462ee55db43d35b4a10976ea7387fa7b453f7ab1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0221_000-T.markers.yaml, hash: 'sha256:6f493954735979c1d87e22c3a1d30ce89fb95d7a9fafee9608bfe37cdabcf07f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0221_001-T.markers.yaml, hash: 'sha256:054eed0498a16093f86da9582768085c18b6b347383e24a676e1d582cd6af1a2'}
+  - {seq: 2, role: markers, filename: assets/KR6i0221_002-T.markers.yaml, hash: 'sha256:4f37a6eb3cfd984753d49732f3232999049c4596f4436b2993b96f0c94ae2558'}
+  - {seq: 3, role: markers, filename: assets/KR6i0221_003-T.markers.yaml, hash: 'sha256:be58942bb7b33b6bd405bfb206ceb32cd51cac93673309c3b1759af3b821803c'}
+  - {seq: 4, role: markers, filename: assets/KR6i0221_004-T.markers.yaml, hash: 'sha256:3e7d602e876ee1c25665cc4aa50ce1bd7459a29e8090306cb7097600b4ec86df'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0221_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5785
+  label: '佛說須真天子經卷第一文殊師利所報法言
+
+    稱，一名斷諸法狐疑法，一名諸佛法普入方便慧分別炤明持'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0221_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 問四事品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0221_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3849
+  label: 佛說須真天子經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0221_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 2 答法議品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0221_T_002-mulu-2
+    span:
+    - body
+    - 856
+    - 856
+  label: 3 法純淑品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0221_T_002-mulu-3
+    span:
+    - body
+    - 2294
+    - 2294
+  label: 4 聲聞品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0221_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6310
+  label: 佛說須真天子經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0221_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 5 無畏品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0221_T_003-mulu-2
+    span:
+    - body
+    - 1961
+    - 1961
+  label: 6 住道品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0221_T_003-mulu-3
+    span:
+    - body
+    - 3053
+    - 3053
+  label: 7 菩薩行品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0221_T_003-mulu-4
+    span:
+    - body
+    - 3550
+    - 3550
+  label: 8 分別品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0221_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3717
+  label: 佛說須真天子經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0221_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 頌偈品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0221_T_004-mulu-2
+    span:
+    - body
+    - 1065
+    - 1065
+  label: 10 道類品(四)
+  type: mulu
+  level: 1
+hash: sha256:a49c58a92a8b33f7921ce7b2b47c02d65022ed2cf4e1a8267468053f738e0f8a
